@@ -1,0 +1,142 @@
+Curso de IBM Ciencia de Datos
+d99521763c8ab2de9948c46f97cd6b83
+d99521763c8ab2de9948c46f97cd6b83
+vinezajaime@yahoo.com
+firesideanalytics.academy
+https://cognitiveclass.ai/
+https://courses.cognitiveclass.ai/certificates/5d7ae5bbf4a747429f384dd24600733d
+
+No es cuestion de saber mucho, sino de amar lo que sabemos
+La razon mas importante por la que pedicamos es por amor a Jehová
+
+Los 7 mejores cursos de Data Science, Big Data y Machine Learning
+https://www.soloeduca.com/mejores-cursos-data-science-big-data-machine-learning/
+
+Google - Habilidades digitales
+Comienza a escribir tu currículum vitae
+https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-spanish/es-419/comienza-a-escribir-tu-curr%C3%ADculum-vitae/overview.html
+
+Fundación Telefónica
+Conecta empleo
+https://conectaempleo-formacion.fundaciontelefonica.com/web/guest/nuestro-programa
+https://conectaempleo-formacion.fundaciontelefonica.com/es/web/gl-1-nuevos-entornos-y-metodologias-de-trabajo-en-la-industria-40-ed-6/reto?p_p_auth=AsW55L0J&p_p_id=activityViewer_WAR_liferaylmsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_r_p_564233524_actId=368220&p_r_p_564233524_moduleId=56204&p_r_p_564233524_actionEditingActivity=false&p_r_p_564233524_actionEditingDetails=false&p_r_p_564233524_actionEditingModule=false&p_r_p_564233524_actionCalifications=false&p_r_p_564233524_activityStarted=true&_activityViewer_WAR_liferaylmsportlet_view=&p_o_p_id=activityViewer_WAR_liferaylmsportlet
+https://conectaempleo-formacion.fundaciontelefonica.com/es/web/gl-1-nuevos-entornos-y-metodologias-de-trabajo-en-la-industria-40-ed-6/reto?p_p_id=lmsactivitieslist_WAR_liferaylmsportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=2&p_p_col_count=3&r_p_r_p564233524_actId=1&_lmsactivitieslist_WAR_liferaylmsportlet_javax.portlet.action=goToModule&p_r_p_564233524_moduleId=56206&_lmsactivitieslist_WAR_liferaylmsportlet_themeId=3
+
+Webinar 'Profundiza tus competencias en metodologías ágiles y design thinking'
+https://www.youtube.com/watch?v=c81T0iZMOW4
+
+LECTURAS
+https://optimainfinito.com/2015/12/aprendiendo-de-los-mejores-optima-lab-entrevista-a-francisco-alcaide.html
+https://www.diariosigloxxi.com/texto-diario/mostrar/296518/reactividad-vs-proactividad-trabajo
+Todo lo que aporta Big Data
+https://blog.orange.es/innovacion/aplicaciones-big-data/
+Comparación Bases de Datos / Big Data
+https://db-engines.com/en/ranking
+Aprender Phyton y Big Data
+https://scikit-learn.org/stable/getting_started.html
+
+IBM Cloud
+https://cloud.ibm.com/registration?signupRequired=true&email=wbenavid777%40outlook.com
+
+Oracle - Top big data analytics use cases
+https://www.oracle.com/a/ocom/docs/top-22-use-cases-for-big-data.pdf?source=:ad:pas:go:dg:a_lad:71700000086979734-58700007414859471-p66509544640:RC_LAMK200526P00014C0001:DataManagementPAN&gclid=CjwKCAjw46CVBhB1EiwAgy6M4t-QYSDy9UHzkR6vt_62qUcmyBHig_oB5YKKDIp4AlntXAxCIedYRRoCim8QAvD_BwE&gclsrc=aw.ds
+
+Databases and SQL for Data Science with Python
+https://www.coursera.org/learn/sql-data-science?specialization=introduction-data-science
+
+Phyton - cognitive class.ai
+https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+PY0101EN+v3/courseware/8dbed036880941c0848fc10aba85daa9/ebbc47f15cfc41d5a462090c4c88d895/1?activate_block_id=block-v1%3ACognitiveClass%2BPY0101EN%2Bv3%2Btype%40html%2Bblock%4079fadc9d5f6d4bfdbf107ff416f54d36
+
+Welcome to Statistics 101!
+https://courses.cognitiveclass.ai/courses/course-v1:BigDataU+ST0101EN+v1/course/
+
+Programación en Python
+https://programacionenpython.club.hotmart.com/lesson/x7Wgyngg72/cadenas-de-caracteres-o-strings
+
+Curso de Phyton - Programación y Ciencia de Datos
+https://drive.google.com/file/d/1SVn7YH-EU-F11rjt7ZGWwJtxAIOXMtdZ/view?ts=62a8c13b
+
+DataCamp
+https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-2-python-lists?ex=1
+https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-2-python-lists?ex=2
+
+
+Translate Coursera
+https://translate-coursera.org/
+
+Cloudera - Big Data
+https://www.cloudera.com/
+
+Instrucciones para descargar Cloudera
+
+Universidad Politécnica de Valencia
+https://riunet.upv.es/discover?scope=%2F&query=%22ARQUITECTURA+DE+BIG+DATA%22&submit=Buscar
+
+Error de IBM Cloud
+Clear your browser's cache, and then restart it.
+Use the private browsing mode of your browser, for example, a private or incognito window.
+Use a different browser. For more information about browsers that are supported by IBM Cloud, see IBM Cloud prerequisites.
+Try another computer or network-connect device, such as a phone or tablet.
+Try a different domain email ID to create the account.
+https://stackoverflow.com/questions/62610250/ibm-cloud-cannot-create-account-at-the-moment#:~:text=Clear%20your%20browser's%20cache%2C%20and,Cloud%2C%20see%20IBM%20Cloud%20prerequisites.
+
+CURSO  - BIG DATA & HADOOP
+https://lms.simplilearn.com/courses/2810/Big-Data-Hadoop-and-Spark-Developer/syllabus
+
+INSTALACION DE HADOOP
+https://www.youtube.com/watch?v=HP4g2BU7-xU
+
+HDFS: Guía de Comandos Básicos
+https://aprenderbigdata.com/comandos-hdfs/
+
+ODBC PARA CONECTARSE CON HIVE
+https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
+
+IBM WATSON STUDIO DESKTOP
+https://www.ibm.com/docs/es/wsd?topic=overview
+
+BLOG ACERCA DE BIG DATA
+https://www.techtarget.com/searchbusinessanalytics/definition/big-data-analytics
+
+SIMULADOR DE PREGUNTAS BIG DATA
+https://www.daypo.com/autores.php?t=512010#tests
+
+SQL
+Username: MySQLAdmin
+Password: root@9832
+MySQL user credential: In00v0@9832
+In00v0@9832
+
+QUIZ ANSWERS COURSERA
+https://networkingfunda.com/tools-for-data-science-coursera-quiz-answers/
+
+Abrir Caso IBM Cloud
+https://cloud.ibm.com/docs/account?topic=account-accountfaqs&locale=es
+https://watson.service-now.com/x_ibmwc_open_case_app.do#!/create
+https://cloud.ibm.com/login?redirect=%2Funifiedsupport%2Fsupportcenter
+
+Watson Studio Desktop
+https://cloud.ibm.com/docs/account?topic=account-accountfaqs&locale=es
+https://www.ibm.com/docs/es/wsd?topic=overview
+
+Haddop - Cloudera Manager - Quickstart VM Installation
+https://www.youtube.com/watch?v=HP4g2BU7-xU
+
+An Intro to Git and GitHub for Beginners (Tutorial)
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+MACHINE LEARNING JOB
+https://akhilez.medium.com/what-i-learnt-from-50-ml-job-interviews-55f05ae3016d
+
+PROGRAMACION
+https://www.algoexpert.io/questions/validate-subsequence
+https://www.javatpoint.com/programs-list
+
+AWS - LINKS
+https://aws.amazon.com/es/training/ramp-up-guides/
+
+Demo IBM Machine Learning
+https://developer.ibm.com/patterns/create-a-web-app-to-interact-with-objects-detected-using-machine-learning/
+
+Data Literate
+https://www.youtube.com/watch?v=8ovyQZ_Z8Xs
